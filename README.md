@@ -1,6 +1,5 @@
 Setup-
->npm i
->npm run start
+>npm i && npm run start
 
 # Getting Started with Create React App
 
